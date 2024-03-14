@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uAC70\uC8FC\uC9C0-\uC2E0\uC131\uC9C0\uAD6C"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: e23bea7836fb69e40b3dcb5f4ff462c9, type: 2}
+    - {fileID: 11400000, guid: 1902818736969054d8672541fe2980fd, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 6
+      Data: 
+    - Name: CCost
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 061eb38ee27260b449c19bee54a1f445, type: 3}
+  Name: "\uC2E0\uC131\uC9C0\uAD6C"
+  C_Group: 11
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 89f38f3520dfa2042952561c101fd686, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  FontMaterial: {fileID: 0}
+  Info: "\uC774\uACF3\uC740 \uACFC\uAC70\uC5D0 \uB0B4\uAC00 \uC9C1\uC811 \uB0B4\uB824\uAC14\uB358
+    \uC7A5\uC18C\uB85C\uC11C \uAD50\uB2E8 \uCABD\uC5D0\uC11C\uB294 \uC774\uACF3\uC744
+    \uC131\uC9C0\uB85C \uC5EC\uAE30\uACE0 \uC788\uC9C0\n\uCE58\uC548\uC774 \uB098\uC05C\uD3B8\uC740
+    \uC544\uB2C8\uC9C0\uB9CC \uC774\uACF3\uC5D0\uC11C \uC678\uC2DD\uD560\uB54C \uC2DD\uC804\uAE30\uB3C4\uAC19\uC740\uAC78
+    \uD558\uC9C0 \uC54A\uC73C\uBA74 \uC0AC\uB78C\uB4E4\uC774 \uC774\uC0C1\uD558\uAC8C
+    \uCC98\uB2E4\uBCFC\uAC70\uC57C"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530fe4bc9c4411e469284fd71b1b8dc0, type: 3}
+  m_Name: "\uC678\uBAA8"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  First: 0
+  RawInfo: "\uB9C8\uBC95\uC18C\uB140\uAC00 \uB418\uB294 \uC774\uC0C1 \uBCC0\uC2E0\uD55C
+    \uBAA8\uC2B5\uC740 \uB2F9\uC5F0\uD558\uAC8C \uBBF8\uC18C\uB140\uAC00 \uB420 \uAC70\uACE0\n\uC544\uB798
+    \uC120\uD0DD\uC9C0\uB294 \uC678\uBAA8\uC758 \uBC29\uD5A5\uC131\uC744 \uACB0\uC815\uD558\uAC8C
+    \uB420 \uAC70\uC57C \n\uC801\uB2F9\uD788 \uC11E\uC5B4\uC11C \uB9CC\uB4E4\uC5B4
+    \uC904 \uD0DC\uB2C8\uAE4C 3\uAC1C\uAE4C\uC9C0 \uACE8\uB77C\uBD10"
+  MinSelect: 1
+  MaxSelect: 3
+  RowType: 0
+  RowData:
+  - {fileID: 11400000, guid: 347aed297323965418beddde3af26e55, type: 2}
+  - {fileID: 11400000, guid: 5c70fa542df2c7a48a0b05e528784e84, type: 2}
+  - {fileID: 11400000, guid: 27f263fcd96eafb4fa72c655e1a1b463, type: 2}
+  - {fileID: 11400000, guid: 8f910a068617f2e4dbe37b79d9f3c803, type: 2}
+  - {fileID: 11400000, guid: 4955b83802d7db74b919756014a9d5a3, type: 2}
+  - {fileID: 11400000, guid: c2f4816ffebabbf4ea885fb0335e96e1, type: 2}
+  - {fileID: 11400000, guid: 2b3170bee55a6084e9a40ae011209799, type: 2}
+  - {fileID: 11400000, guid: 31d7cd2c0c9e7c84e8898712efbf3dc7, type: 2}
+  Complet: 0

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uAC70\uC8FC\uC9C0-\uC5D8\uD504\uC9C0\uAD6C"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: b4965ea741d52304494371672ac0debd, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 6
+      Data: 
+    - Name: CCost
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[Choice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 057618584e60eb249aeb59eb997d99df, type: 3}
+  Name: "\uC5D8\uD504\uC9C0\uAD6C"
+  C_Group: 11
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 89f38f3520dfa2042952561c101fd686, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  FontMaterial: {fileID: 2100000, guid: a42b860c74bbe0745a7e57a8667850f8, type: 2}
+  Info: "\uC120\uD0DD\uC9C0\uC5D0 \uBCF4\uC774\uB294 \uC774\uBBF8\uC9C0\uB294 \uB180\uB78D\uAC8C\uB3C4
+    \uD604\uB300\uAC00 \uB9DE\uC544\r\n\uC5D8\uD504\uB294 \uC790\uC5F0 \uC18D\uC5D0
+    \uC0AC\uB294 \uC885\uC871\uC774\uB77C\uBA74\uC11C \uC800\uB7EC\uACE0 \uC0B4\uB354\uB77C\uACE0\r\n\uBB3C\uB860
+    \uC815\uAE00\uC18D \uC6D0\uC8FC\uBBFC\uB4E4\uCC98\uB7FC \uC790\uC5F0\uADF8\uB300\uB85C
+    \uC0B4\uC9C0\uB294 \uC54A\uACE0 \uAC70\uC8FC\uC9C0\uB9CC \uC800\uB807\uAC8C \uC0DD\uAE34\uAC70\uC57C\n\uC9D1
+    \uC548\uC5D0\uB294 PC\uB098 \uD2F0\uBE44\uB4F1 \uC788\uC744\uAC74 \uB2E4 \uC788\uC5B4"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

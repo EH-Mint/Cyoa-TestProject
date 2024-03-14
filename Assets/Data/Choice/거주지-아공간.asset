@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uAC70\uC8FC\uC9C0-\uC544\uACF5\uAC04"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: b359e1f8368b3854080c38f7e2c2c56e, type: 2}
+    - {fileID: 11400000, guid: e915d415a52ef3e4aabbc3637ea92ead, type: 2}
+    - {fileID: 11400000, guid: b499a12467a6f754cb1b5df9f210aea1, type: 2}
+    - {fileID: 11400000, guid: 4c37802e84fcfb94ea60c0fd239ce508, type: 2}
+    - {fileID: 11400000, guid: 1846b28dfb58d5b4bbff0a85eec5ee1c, type: 2}
+    - {fileID: 11400000, guid: 78450bc5bfc76d044927e387e3838f93, type: 2}
+    - {fileID: 11400000, guid: e7a001951d1a09a43b6d4ffeb9f50a10, type: 2}
+    - {fileID: 11400000, guid: 557de46a0e55a674ea64b90309c0a0ec, type: 2}
+    - {fileID: 11400000, guid: 04f817809d0c14f4db7b20c5b0e8b103, type: 2}
+    - {fileID: 11400000, guid: b615d756f38551c438b85fa350f25a20, type: 2}
+    - {fileID: 11400000, guid: 1d53764f9984fda4eb9ec5076ddd37c9, type: 2}
+    - {fileID: 11400000, guid: 969bd244a194c12419be3fd0c996d989, type: 2}
+    - {fileID: 11400000, guid: 2916b7cc3b083844aa73636915c3bd7b, type: 2}
+    - {fileID: 11400000, guid: d0b6da22b5c6ccb4c9c9aadb8df0084b, type: 2}
+    - {fileID: 11400000, guid: 8c48e7d678a0c00458626df3647c083f, type: 2}
+    - {fileID: 11400000, guid: 891c48c0b418b4e4d870882cf59d64ed, type: 2}
+    - {fileID: 11400000, guid: 0321f67ebe336674197c8a52bdda63a4, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Cost
+      Entry: 3
+      Data: 50
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: CCost
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 1|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Choice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenKey
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 16
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 10
+      Data: 16
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 4|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 5|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: aacbc3a6c25f25a429853b1da7326100, type: 3}
+  Name: "\uC544\uACF5\uAC04"
+  C_Group: 11
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 3a0c9549e5770b24bb8aab7a8059a05c, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  FontMaterial: {fileID: 2100000, guid: c8617a0e849908d4dbebf169720017f7, type: 2}
+  Info: "\uB098\uC640 \uAC70\uB798\uB97C \uD574\uC900 \uB300\uAC00\uB85C \uC774 \uC9D1\uC744
+    \uC81C\uC548\uD560\uAC8C \n\uC774 \uC9D1\uC740 HUD\uB85C \uD3EC\uD0C8\uC744 \uC18C\uD658\uD574\uC57C\uB9CC
+    \uC811\uADFC\uD560 \uC218 \uC788\uB294 \uC544\uACF5\uAC04\uC5D0 \uC788\uC5B4\uC11C
+    \uC9C0\uAD6C\uAC00 \uBA78\uB9DD\uD574\uB3C4 \uC544\uBB34\uB7F0 \uC601\uD5A5\uC744
+    \uBC1B\uC9C0 \uC54A\uC544 \n\uADF8\uB9AC\uACE0 \uB0A0\uC528\uB098 \uAE30\uC628
+    \uBC24\uB0AE\uAE4C\uC9C0 \uB9C8\uC74C\uB300\uB85C \uC870\uC808\uC774 \uAC00\uB2A5\uD558\uBA70
+    \uC548\uC5D0 \uC788\uB294 \uACE8\uB7A8\uB4E4\uD55C\uD14C \uB9C8\uB825\uB9CC \uACF5\uAE09\uD574\uC8FC\uBA74
+    \uD558\uC778\uC73C\uB85C \uBD80\uB9B4 \uC218 \uC788\uACE0 \uC790\uB3D9\uC73C\uB85C
+    \uC720\uC9C0\uBCF4\uC218\uB97C \uD574\uC904 \uAC70\uC57C"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

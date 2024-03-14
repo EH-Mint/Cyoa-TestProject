@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530fe4bc9c4411e469284fd71b1b8dc0, type: 3}
+  m_Name: "\uAC70\uC8FC\uC9C0"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  First: 0
+  RawInfo: "\uC800\uCABD \uC138\uACC4\uB85C \uAC08 \uAC70\uBA74 \uAC70\uC8FC\uC9C0\uB3C4
+    \uC788\uC5B4\uC57C\uACA0\uC9C0? \n\uC18C\uB9DD\uC744 \uC18C\uBAA8\uD574\uC11C
+    \uB108\uC758 \uC18C\uC720\uB85C \uB3FC \uC788\uB294 \uC9D1\uC744 \uC904\uAC8C
+    \uC138\uAE08\uC774\uB098 \uAD00\uB9AC\uBE44\uB294 \uC9C1\uC811 \uB0B4\uC57C \uD558\uB2C8\uAE4C
+    \uC798 \uC0DD\uAC01\uD574\uBD10"
+  MinSelect: 1
+  MaxSelect: 1
+  RowType: 0
+  RowData:
+  - {fileID: 11400000, guid: b9473d38e493cb74c91919a2d226d7be, type: 2}
+  - {fileID: 11400000, guid: 4c6ae2c54c4773d43a691cb6b95ae3ad, type: 2}
+  - {fileID: 11400000, guid: dcf3e9b1098244a4ca279d617b95bfd1, type: 2}
+  - {fileID: 11400000, guid: 350005918d2d77a49aeab8dd60f6ac08, type: 2}
+  - {fileID: 11400000, guid: ebfde8cbc1a8f3c4eb1931c6c10cf708, type: 2}
+  - {fileID: 11400000, guid: 638d6b81184111a499225442f78e5f33, type: 2}
+  - {fileID: 11400000, guid: 7ab3b7f98cfb2d04bb9b1b5eb9bdaf22, type: 2}
+  - {fileID: 11400000, guid: e23bea7836fb69e40b3dcb5f4ff462c9, type: 2}
+  - {fileID: 11400000, guid: 1902818736969054d8672541fe2980fd, type: 2}
+  Complet: 0

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530fe4bc9c4411e469284fd71b1b8dc0, type: 3}
+  m_Name: "\uBA38\uB9AC\uAE38\uC774"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  First: 0
+  RawInfo: "\uB9C8\uBC95\uC18C\uB140\uB85C \uBCC0\uC2E0 \uD588\uC744 \uB54C \uBA38\uB9AC
+    \uAE38\uC774\uB294 \uC5B4\uB290 \uC815\uB3C4\uAC00 \uC88B\uC544? \n\uB300\uBA38\uB9AC\uB294
+    \uC81C\uC678\uD588\uC5B4 \n\uB9C8\uBC95\uC18C\uB140\uAC00 \uB300\uBA38\uB9AC\uC778\uAC74
+    \uB9D0\uB3C4 \uC548\uB418\uC796\uC544"
+  MinSelect: 1
+  MaxSelect: 1
+  RowType: 0
+  RowData:
+  - {fileID: 11400000, guid: 699abb58695edf84eac835e9f2044dc1, type: 2}
+  - {fileID: 11400000, guid: 7a20c6920cec0054e943a3952aee8393, type: 2}
+  - {fileID: 11400000, guid: 8c8476bdd38178943b07959cf8d080e8, type: 2}
+  - {fileID: 11400000, guid: ba8b9e60d9ab7e041845a3c0d6a5bcbf, type: 2}
+  Complet: 0

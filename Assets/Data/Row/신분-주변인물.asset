@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530fe4bc9c4411e469284fd71b1b8dc0, type: 3}
+  m_Name: "\uC2E0\uBD84-\uC8FC\uBCC0\uC778\uBB3C"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  First: 0
+  RawInfo: "\uC774\uC81C \uC800\uCABD \uC138\uC0C1\uC5D0\uC11C \uC4F8 \uC2E0\uBD84\uC744
+    \uB9CC\uB4E4\uC5B4\uC904\uAC8C\n\uC6B0\uC120 \uAC00\uC871\uAD00\uACC4\uB294 \uC5B4\uB560\uC73C\uBA74
+    \uC88B\uACA0\uC5B4?"
+  MinSelect: 1
+  MaxSelect: 1
+  RowType: 0
+  RowData:
+  - {fileID: 11400000, guid: 176ec5e764a09a04aacc60db2d6378af, type: 2}
+  - {fileID: 11400000, guid: b91beb633e631814c8b4349193b346d2, type: 2}
+  - {fileID: 11400000, guid: 4a909195ee981094eb308e7485628af0, type: 2}
+  Complet: 0

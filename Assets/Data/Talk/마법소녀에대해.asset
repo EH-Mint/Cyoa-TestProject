@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcba686266b3f843b4f290db343d08e, type: 3}
+  m_Name: "\uB9C8\uBC95\uC18C\uB140\uC5D0\uB300\uD574"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: TalkList
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Talk, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: Talk, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: "\uC5EC\uC2E0"
+    - Name: Speed
+      Entry: 4
+      Data: 0.05
+    - Name: Say
+      Entry: 1
+      Data: "\uB124\uAC00 \uC0DD\uAC01\uD558\uB294 \uADF8 \uB9C8\uBC95\uC18C\uB140\uAC00
+        \uB9DE\uC544"
+    - Name: EndFX
+      Entry: 3
+      Data: 0
+    - Name: FXSound
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Talk, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: "\uC5EC\uC2E0"
+    - Name: Speed
+      Entry: 4
+      Data: 0.05
+    - Name: Say
+      Entry: 1
+      Data: "\uBBF8\uC18C\uB140\uB85C \uBCC0\uC2E0\uD574\uC11C \uB9C8\uBC95\uC73C\uB85C
+        \uC545\uB2F9\uC744 \uBB3C\uB9AC\uCE58\uB294 \uB9C8\uBC95\uC18C\uB140 \uB9D0\uC774\uC57C"
+    - Name: EndFX
+      Entry: 3
+      Data: 0
+    - Name: FXSound
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Choice
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 1|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  Npc: 0
+  NextTalk: {fileID: 11400000, guid: 82c1865268a33354b95ea14604e6a95d, type: 2}
+  Active: 1
+  ChangeBgm: 
+  Skip: 1

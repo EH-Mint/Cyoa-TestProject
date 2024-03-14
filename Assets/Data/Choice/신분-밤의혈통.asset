@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uC2E0\uBD84-\uBC24\uC758\uD608\uD1B5"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: b963d036683ed7d4bad128309f53dbfc, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Cost
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: CCost
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 1|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Choice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 4|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: fec886232bd0872409f933037999ab8f, type: 3}
+  Name: "\uBC24\uC758\uD608\uD1B5"
+  C_Group: 10
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 89f38f3520dfa2042952561c101fd686, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  Info: "\uC800\uCABD \uC138\uACC4\uC758 \uC5B4\uB460\uC18D\uC5D0\uB294 \uB291\uB300\uC778\uAC04\uC774\uB098
+    \uD761\uD608\uADC0 \uB4F1 \uAD34\uB2F4 \uC18D\uC5D0\uB098 \uC874\uC7AC\uD560
+    \uAC83 \uAC19\uC740 \uC874\uC7AC\uB4E4\uC774 \uC2E4\uC81C\uB85C \uC788\uC5B4\n\uC774
+    \uC120\uD0DD\uC9C0\uB97C \uACE0\uB974\uBA74 \uB108\uB97C \uADF8\uB7F0 \uC874\uC7AC\uB85C
+    \uB9CC\uB4E4\uC5B4\uC904\uAC8C \r\n\uBB3C\uB860 \uB291\uB300\uC778\uAC04\uC774\uB098
+    \uD761\uD608\uADC0\uC758 \uB2E8\uC810\uC740 \uB9C8\uBC95\uC18C\uB140\uB85C \uBCC0\uC2E0\uD55C
+    \uC0C1\uD0DC\uC5D0\uC11C\uB294 \uBB34\uC2DC\uD560 \uC218 \uC788\uC744 \uAC70\uC57C"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uB9C8\uBC95\uC9C0\uC2DD-\uBE5B\uACFC\uC5B4\uB460\uC5D0\uB300\uD55C\uC774\uD574"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: fb2350cf39238e64ca444a718ff39e29, type: 2}
+    - {fileID: 11400000, guid: 5f418d2908fb7014bb2d8e92208c842c, type: 2}
+    - {fileID: 11400000, guid: 67d87c1a91b49a64e94ac73f20100556, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Cost
+      Entry: 3
+      Data: 20
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: CCost
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[Choice, Assembly-CSharp],[System.Collections.Generic.List`1[[Point,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.ObjectEqualityComparer`1[[Choice, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 10
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 2
+    - Name: Cost
+      Entry: 3
+      Data: -30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 4|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[Choice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 6|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 7|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 064482eff4928bc4384d5edf848e9dfe, type: 3}
+  Name: new
+  C_Group: 5
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 3a0c9549e5770b24bb8aab7a8059a05c, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  FontMaterial: {fileID: 2100000, guid: c8617a0e849908d4dbebf169720017f7, type: 2}
+  Info: "\uBE5B\uACFC \uC5B4\uB460\uC5D0 \uB300\uD55C \uC9C0\uC2DD\uC774\uC57C \n4\uB300
+    \uC6D0\uC18C\uC640 \uB2EC\uB9AC \uC9C1\uAD00\uC801\uC774\uC9C0 \uC54A\uACE0 \uC774\uD574\uAC00
+    \uB9E4\uC6B0 \uC5B4\uB835\uACA0\uC9C0\uB9CC  \uC775\uD78C\uB2E4\uBA74 \uB9E4\uC6B0
+    \uB9CE\uC740 \uC77C\uB4E4\uC744 \uD560 \uC218 \uC788\uACA0\uC9C0"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

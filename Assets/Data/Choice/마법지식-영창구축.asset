@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uB9C8\uBC95\uC9C0\uC2DD-\uC601\uCC3D\uAD6C\uCD95"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: d9754263e517a9841816c3a332447ba7, type: 2}
+    - {fileID: 11400000, guid: 5f418d2908fb7014bb2d8e92208c842c, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Cost
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: CCost
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[Choice, Assembly-CSharp],[System.Collections.Generic.List`1[[Point,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.ObjectEqualityComparer`1[[Choice, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 10
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[Point, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Point, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 2
+    - Name: Cost
+      Entry: 3
+      Data: -60
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 4|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[Choice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 6|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 7|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 61fec9296fe035e4b986e7bd8d0e9883, type: 3}
+  Name: "\uC601\uCC3D\uAD6C\uCD95"
+  C_Group: 5
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 3a0c9549e5770b24bb8aab7a8059a05c, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  FontMaterial: {fileID: 2100000, guid: c8617a0e849908d4dbebf169720017f7, type: 2}
+  Info: "\uB124\uAC00 \uC0B4\uB358 \uC138\uACC4\uB97C \uAE30\uC900\uC73C\uB85C \uC911\uC138
+    \uC774\uC0C1\uC758 \uBB38\uBA85\uC744 \uC774\uB8EC \uC2DC\uB300\uC758 \uB9C8\uBC95\uC0AC\uB4E4\uBD80\uD130\uB294
+    \uB9C8\uBC95\uC9C4 \uAC19\uC740 \uB0A1\uC740 \uBC29\uC2DD \uC5D0\uC11C \uBC97\uC5B4\uB098
+    \uC601\uCC3D\uC73C\uB85C \uB9C8\uBC95\uC744 \uC0AC\uC6A9\uD574 \n\uB9C8\uBC95\uC9C4\uC5D0
+    \uB4E4\uC5B4\uAC00\uB294 \uC218\uC2DD\uC744 \uC5B8\uC5B4\uB85C \uBC14\uAFBC \uD615\uC2DD\uC774\uC9C0
+    \uC601\uCC3D\uC744 \uAD6C\uCD95\uD558\uB294 \uBC29\uBC95\uC744 \uC54C\uB824\uC904\uAC8C"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

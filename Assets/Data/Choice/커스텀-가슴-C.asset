@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uCEE4\uC2A4\uD140-\uAC00\uC2B4-C"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 6
+      Data: 
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 6
+      Data: 
+    - Name: BenSave
+      Entry: 6
+      Data: 
+    - Name: ConnectRow
+      Entry: 6
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 5f0506345d708ea4999718a5fdac577a, type: 3}
+  Name: "\uAC00\uC2B4-C"
+  C_Group: 1
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 89f38f3520dfa2042952561c101fd686, type: 3}
+  DisActive: 0
+  BenKey: []
+  ViewName: C
+  ChangeName: 
+  Info: "\uC57D\uAC04 \uD070 \uC218\uC900\uC758 \uD06C\uAE30\uC57C\r\n\uB0A0\uB77C
+    \uB2E4\uB2C8\uBA74 \uB9CE\uC774 \uD754\uB4E4\uB9B4 \uC218\uB3C4 \uC788\uC73C\uB2C8\uAE4C
+    \uC2A4\uD3EC\uCE20 \uBE0C\uB77C\uB97C \uCD94\uCC9C\uD560\uAC8C"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0
+  Enable: 0

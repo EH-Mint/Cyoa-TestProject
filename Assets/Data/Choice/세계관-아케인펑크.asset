@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79561bf78a2a946419a98e88b81525d7, type: 3}
+  m_Name: "\uC138\uACC4\uAD00-\uC544\uCF00\uC778\uD391\uD06C"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 7f52b3e6e47fc554dbb38506868ad379, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Cost
+      Entry: 6
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 0|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 7
+      Data: 1|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 2|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  Img: {fileID: -6296427916463063283, guid: 4976ca8a88ab7af4190781c266b567c7, type: 3}
+  Name: "\uC544\uCF00\uC778\uD391\uD06C"
+  C_Group: 0
+  ViewPoint: 0
+  Front: {fileID: 21300000, guid: 89f38f3520dfa2042952561c101fd686, type: 3}
+  DisActive: 0
+  ViewName: 
+  ChangeName: 
+  Info: "\uC774\uAC78 \uACE0\uB978\uB2E4\uBA74 \uB124\uAC00 \uAC00\uB294 \uC138\uACC4\uB294
+    \uB9C8\uBC95\uC774 \uC544\uC8FC \uB2F9\uC5F0\uD55C \uD604\uC0C1\uC774 \uB418\uC5B4
+    \uACF5\uD559\uACFC \uACF5\uC874\uD558\uBA70 \uC77C\uC0C1\uC5D0 \uB179\uC544\uB4E4\uAC70\uC57C\r\n\uB9C8\uBC95\uC73C\uB85C
+    \uC791\uB3D9\uD558\uB294 \uCDE8\uC0AC\uB3C4\uAD6C\uB098 \uD1B5\uC2E0 \uB9C8\uBC95\uAC19\uC740\uAC8C
+    \uBCF4\uD3B8\uC801\uC774 \uB418\uACA0\uC9C0"
+  ChangeInfo: 
+  NoneSelect: 0
+  Active: 0

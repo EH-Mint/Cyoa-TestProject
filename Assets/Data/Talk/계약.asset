@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcba686266b3f843b4f290db343d08e, type: 3}
+  m_Name: "\uACC4\uC57D"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 6b9bfe4d3c675a7498dc8c5cbf294926, type: 2}
+    - {fileID: 11400000, guid: 392a3e720a7128847a05ac8a551259dc, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: TalkList
+      Entry: 7
+      Data: 0|Unity.Plastic.Antlr3.Runtime.Misc.ListStack`1[[Talk, Assembly-CSharp]],
+        Unity.Plastic.Antlr3.Runtime
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: Talk, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: "\uC218\uC0C1\uD55C\uCC45"
+    - Name: Speed
+      Entry: 4
+      Data: 0.05
+    - Name: Say
+      Entry: 1
+      Data: "\uC548\uB155 \uB09C \uB9C8\uBC95\uC758 \uCC45\uC774\uC57C!\r\n\uB098\uB791
+        \uACC4\uC57D\uD560\uB798?"
+    - Name: EndFX
+      Entry: 3
+      Data: 0
+    - Name: FXSound
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Talk, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: "\uC218\uC0C1\uD55C\uCC45"
+    - Name: Speed
+      Entry: 4
+      Data: 0.05
+    - Name: Say
+      Entry: 1
+      Data: "\uC18C\uC6D0\uC744 \uB4E4\uC5B4 \uC904\uD0DC\uB2C8\uAE4C \uACC4\uC57D\uD574\uC11C
+        <b>\uB9C8\uBC95\uC18C\uB140</b>\uAC00 \uB418\uC5B4\uC8FC\uC9C0 \uC54A\uC744\uB798?"
+    - Name: EndFX
+      Entry: 3
+      Data: 0
+    - Name: FXSound
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Choice
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[TalkChoice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 0
+    - Name: choice
+      Entry: 7
+      Data: 2|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uC88B\uC544"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 1
+    - Name: choice
+      Entry: 7
+      Data: 3|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uC2EB\uC5B4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 4|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 5|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 6|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Npc: 2
+  NextTalk: {fileID: 0}
+  Active: 0
+  ChangeBgm: "\uC2E0"
+  Skip: 1

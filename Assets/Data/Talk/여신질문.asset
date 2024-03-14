@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcba686266b3f843b4f290db343d08e, type: 3}
+  m_Name: "\uC5EC\uC2E0\uC9C8\uBB38"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 1e757f9d50207204aa95ca98c53af067, type: 2}
+    - {fileID: 11400000, guid: 2d763647af37bd044bb1681db0f930a3, type: 2}
+    - {fileID: 11400000, guid: 52e911009db1e1343a23f156a3c65c91, type: 2}
+    - {fileID: 11400000, guid: 335770c1571c3964cabed2b195fd99d0, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: TalkList
+      Entry: 6
+      Data: 
+    - Name: Choice
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[TalkChoice, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 0
+    - Name: choice
+      Entry: 7
+      Data: 1|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uB2F9\uC2E0\uC740?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 1
+    - Name: choice
+      Entry: 7
+      Data: 2|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uBB50\uC5D0\uC694 \uB3CC\uB824\uBCF4\uB0B4\uC918\uC694"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 2
+    - Name: choice
+      Entry: 7
+      Data: 3|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uB9C8\uBC95...\uC18C\uB140?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 10
+      Data: 3
+    - Name: choice
+      Entry: 7
+      Data: 4|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uADF8 \uCC45\uC5D0 \uB300\uD574"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: TalkChoice, Assembly-CSharp
+    - Name: NextTalk
+      Entry: 6
+      Data: 
+    - Name: choice
+      Entry: 7
+      Data: 5|System.String, mscorlib
+    - Name: 
+      Entry: 1
+      Data: "\uC9C8\uBB38\uC885\uB8CC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: K_System
+      Entry: 7
+      Data: 6|KeySystem, Assembly-CSharp
+    - Name: Key
+      Entry: 6
+      Data: 
+    - Name: BenKey
+      Entry: 6
+      Data: 
+    - Name: ConnectKey
+      Entry: 7
+      Data: 7|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BenSave
+      Entry: 7
+      Data: 8|System.Collections.Generic.HashSet`1[[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Enable
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  Npc: 0
+  NextTalk: {fileID: 0}
+  Active: 1
+  ChangeBgm: 
+  Skip: 1
